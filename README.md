@@ -1,6 +1,6 @@
 ## Всем привет
 меня зовут Паша я учусь в нетологии
 
-<image src= "![image](https://github.com/wbposha/me/assets/135736179/b156e9c7-8b1a-488d-bd44-9f42bb05affd)
-">
+
   
+![photo_2023-04-28_23-10-30](https://github.com/wbposha/me/assets/135736179/98d09ca7-185e-44ca-967d-b9a1d6285e2a)
